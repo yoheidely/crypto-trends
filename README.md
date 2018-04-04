@@ -1,4 +1,4 @@
-# dely 検索結果
+# crypto google trends slack bot
 
 ## setup
 - `pip install -r requirements.txt`
