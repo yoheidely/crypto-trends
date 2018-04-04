@@ -1,0 +1,1 @@
+0 0,3,6,9,12 * * * /usr/bin/python /home/ubuntu/crypto-trends/get_trends.py
